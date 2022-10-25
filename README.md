@@ -237,7 +237,7 @@
 
 
 
-    <strong></strong>trinca-ferro:<strong></strong>
+    <strongtrinca-ferro:
     O trinca-ferro verdadeiro é uma ave passeriforme da família Thraupidae, que ocorre no Brasil e países limítrofes, de coloração geral olivácea, cabeça acinzentada, garganta ocre-clara, peito e abdome cinzento-oliváceo, lavado de ocre no meio, Também é chamado de trinca-ferro, bico-de-ferro, tempera-viola, pixarro, pipirão, estevo, papa-banana (Santa Catarina), titicão, tia-chica e chama-chico (interior de São Paulo)
 
     EXPETATIVA DE VIDA:
