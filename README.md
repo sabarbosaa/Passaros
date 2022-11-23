@@ -1,5 +1,5 @@
 # Pássaros 
-<!DOCTYPE html>
+<!DOCTYPE 
 <html>
 
     <h1></h1> Nessa página vamos falar sobre algumas raças de passaros<H1></H1>
